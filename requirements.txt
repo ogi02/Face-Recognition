@@ -1,0 +1,9 @@
+scipy
+tensorflow==2.10.0
+keras==2.10.0
+tensorflow-intel==2.10.0
+mtcnn
+keras-vggface
+keras-applications
+opencv-python
+numpy<2

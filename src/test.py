@@ -70,7 +70,7 @@ if __name__ == "__main__":
 
     # redirect stdout
     orig_stdout = sys.stdout
-    file = open("result.txt", "w")
+    file = open("result-test-with-trained-data.txt", "w")
     sys.stdout = file
 
     # save to file
